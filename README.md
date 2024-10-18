@@ -1,3 +1,9 @@
+### Demo Program
+silahkan masukkan id jika ingin mencoba
+Email : richardchristian739@gmail.com
+Password : januwaputra
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
